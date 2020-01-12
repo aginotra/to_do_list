@@ -19,7 +19,7 @@ class TasksTableSeeder extends Seeder
         // loop through each user
         foreach ($users as $user) {
             // determine how many tasks to create for the user
-            $limit = random_int(10, 20);
+            $limit = random_int(1, 2);
 
             // create a new task until the limit is hit
             for ($i = 0; $i < $limit; $i++) {

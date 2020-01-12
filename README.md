@@ -39,7 +39,7 @@ php artisan db:seed
 ## Running the application
 Run the application in a **Virtual Host**
 
-#### Comes with couple of default users
+#### Comes with couples of default users and their tasks 
 User credentials are as follows
 ```
 Email: admin@example.com | Password: password
