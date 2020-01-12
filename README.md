@@ -9,10 +9,6 @@ https://github.com/aginotra/to_do_list.git todolist && cd todolist
 ```
 composer install
 ```
-**Run npm install**
-```
-npm install
-```
 **Create .env**
 ```
 cp .env.example .env
