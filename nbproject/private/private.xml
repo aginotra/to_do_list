@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/ashish/workspace/quickstart/resources/views/layouts/app.blade.php</file>
+            <file>file:/home/ashish/workspace/quickstart/resources/views/home.blade.php</file>
+            <file>file:/home/ashish/workspace/quickstart/database/factories/TaskFactory.php</file>
+            <file>file:/home/ashish/workspace/quickstart/app/Http/Controllers/HomeController.php</file>
+            <file>file:/home/ashish/workspace/quickstart/database/seeds/TasksTableSeeder.php</file>
+            <file>file:/home/ashish/workspace/quickstart/README.md</file>
+            <file>file:/home/ashish/workspace/quickstart/database/seeds/UsersTableSeeder.php</file>
+        </group>
+    </open-files>
+</project-private>

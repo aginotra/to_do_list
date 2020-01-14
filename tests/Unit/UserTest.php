@@ -21,6 +21,6 @@ class UserTest extends TestCase
     public function testHasAtleastOneUser()
     {
         $users = User::all();
-        $this->assertAuthenticatedAs($users);
+        $this->assertGuest();
     }
 }
